@@ -1,0 +1,5 @@
+eval
+model_yolo12s
+static
+templates
+yolovenv
